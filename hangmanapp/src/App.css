@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.SelectedLetter {
+  color: grey;
+}
+
+.NotSelectedLetter {
+  color: black;
+}
+
+.high-score {
+  color: green;
+}
+
+.medium-score {
+  color: yellowgreen;
+}
+
+.low-score {
+  color: red;
+}
